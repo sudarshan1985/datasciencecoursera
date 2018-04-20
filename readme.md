@@ -49,6 +49,9 @@ git remote remove origin
 
 >>after this add anything you want and push it to repository.
 
+git pull > This will pull from remote repo to local
+
+git clone urlhere (this can clone any project to here)
 
 
 
